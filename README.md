@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyashah5&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyashah5" /> </p>
 
-- 🔭 I’m currently working on **Discord Clone**
+- 🔭 I’m currently working on **Earhquake Forecasting**
 
-- 🌱 I’m currently learning **Next and Tailwind**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DhairyaShah5/](https://github.com/DhairyaShah5/)
 
